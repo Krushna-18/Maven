@@ -12,7 +12,7 @@ public class ABC {
 		Thread.sleep(1500);
 		
 		driver.manage().window().maximize();
-		Thread.sleep(1500);
+		Thread.sleep(150);
 		
 		driver.close();
 		
